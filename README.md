@@ -1,4 +1,3 @@
 # have-a-try
 
-Hi Gays,
-Welcome to web world.
+Have a try on Q1
